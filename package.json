@@ -1,0 +1,14 @@
+{
+  "name": "compass",
+  "version": "0.0.1",
+  "description": "collection of trading statistics functions",
+  "main": "stats.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Letladi Sebesho",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
